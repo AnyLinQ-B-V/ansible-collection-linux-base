@@ -1,4 +1,3 @@
 [submodule "roles/base"]
 	path = roles/base
-	url = https://github.com/AnyLinQ-B-V/ansible_role_base.git
-	branch = main
+	url = git@github.com:AnyLinQ-B-V/ansible_role_base.git
